@@ -1,3 +1,4 @@
+# This is the initial code
 # full_rpi_self_driving_car.py
 
 import cv2
