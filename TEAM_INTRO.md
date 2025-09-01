@@ -8,7 +8,7 @@ Welcome to the official repository of **RoboTeamBZU**, a student team from **Bir
 
 | Name             | Major                   | Role                          |
 |------------------|--------------------------|-------------------------------|
-| **Bashar Ibrahim**   | Computer Engineering      | Coding Control & Motor Control |
+| **Bashar Ibrahim**   | Computer Engineering      | Coding Management & Motor Control |
 | **Jinan Yousef**     | Mechatronics Engineering  | Chassis Design & Sensor Fusion |
 
 
@@ -39,7 +39,7 @@ We were drawn to this category because:
 
 We designed and built a fully autonomous car from scratch using:
 
-- **Raspberry Pi 4** as the sole processing unit (no Arduino or LEGO)
+- **Raspberry Pi 4** as the sole processing unit 
 - **Python**, **OpenCV**, and **pigpio** for real-time motor and vision control
 - Custom electronics and full integration with **sensors, servos, and DC motors**
 - A fully rule-compliant design for WRO 2025
@@ -56,19 +56,6 @@ We designed and built a fully autonomous car from scratch using:
 
 ---
 
-## 📁 Repository Structure
-
-```
-.
-├── Code.py   # Main Python code
-├── README.md                      # Project overview
-├── TEAM_INTRO.md                 # Team introduction and motivation
-├── /docs                          # Engineering journal and wiring diagrams
-├── /images                        # Robot and team images
-└── /videos                        # Driving demonstration videos
-```
-
----
 
 ## 🌍 Looking Ahead
 
