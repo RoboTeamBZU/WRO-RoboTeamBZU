@@ -8,11 +8,11 @@ Welcome to the official repository of **RoboTeamBZU**, a student team from **Bir
 
 | Name             | Major                   | Role                          |
 |------------------|--------------------------|-------------------------------|
-| **Bashar Ibrahim**   | Computer Engineering      | Vision Systems & Motor Control |
+| **Bashar Ibrahim**   | Computer Engineering      | Coding Control & Motor Control |
 | **Jinan Yousef**     | Mechatronics Engineering  | Chassis Design & Sensor Fusion |
-| **Yazan Ghunaim**    | Computer Engineering      | Embedded Systems & Algorithms  |
 
-All of us are currently in our **3rd year** of study and passionate about autonomous systems and robotics.
+
+We are currently in our **3rd year** of study and passionate about autonomous systems and robotics.
 
 ---
 
