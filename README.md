@@ -95,3 +95,5 @@ This is a critical phase that must be performed on a practice field that matches
 3.  **Run Initiation:** Upon the judge's "Go" signal, a team member presses the single, designated start button (a physical push button connected to the Pi's GPIO), which begins the autonomous mission. The vehicle will then execute its programmed logic for the specific challenge, navigating the random track configuration entirely on its own.
 
 This repository embodies a practical and effective approach to the WRO Future Engineers challenge, demonstrating a clear understanding of autonomous systems integration through the strategic use of a simplified, yet powerful, sensor and actuator suite.
+
+This idea began as a theory, and we are striving to put it into practice with as few mistakes as possible. We sincerely wish everyone the best of success in the competition.
