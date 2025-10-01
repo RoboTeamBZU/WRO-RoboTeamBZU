@@ -1,6 +1,3 @@
-Of course. Based on your clarification, here is a revised README.md that accurately reflects a system using only the components you mentioned (Raspberry Pi, camera, ultrasonic sensor, motors, color sensor) without the previously mentioned elements.
-
-***
 
 # WRO 2025 Future Engineers: Autonomous Self-Driving Vehicle
 **Team Name:** RoboTeam BZU  
