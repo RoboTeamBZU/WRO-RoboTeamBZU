@@ -96,4 +96,4 @@ This is a critical phase that must be performed on a practice field that matches
 
 This repository embodies a practical and effective approach to the WRO Future Engineers challenge, demonstrating a clear understanding of autonomous systems integration through the strategic use of a simplified, yet powerful, sensor and actuator suite.
 
-This idea began as a theory, and we are striving to put it into practice with as few mistakes as possible. We sincerely wish everyone the best of success in the competition.
+Finally this idea began as a theory, and we are striving to put it into practice with as few mistakes as possible. We sincerely wish everyone the best of success in the competition.
